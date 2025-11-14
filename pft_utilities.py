@@ -1,6 +1,5 @@
 import os                              # a library that allows us access to basic operating system commands
 import glob                            # a library that helps us search for files
-import eumartools                      # a EUMETSAT library that support working with Sentinel-3 products
 import datetime                        # a library that allows us to work with dates and times
 import warnings                        # a library that supports managing warning messages
 
